@@ -29,6 +29,16 @@
 
 ### Projects
 
+#### 박차고 (Park-Charge-Go)
+
+```
+  전기차 충전 요금과 주차 요금을 한 번에 결제할 수 있게 하는 주차장 시스템
+
+  기여: Backend, 중계 서버, 웹소켓
+```
+
+- [API](https://github.com/maitmus/pcg-back)
+
 #### HoopSquad
 
 ```
@@ -37,13 +47,7 @@
   기여: Backend
 ```
 
-#### 박차고 (Park-Charge-Go)
-
-```
-  전기차 충전 요금과 주차 요금을 한 번에 결제할 수 있게 하는 주차장 시스템
-
-  기여: Backend, 중계 서버, 웹소켓
-```
+- [API](https://github.com/maitmus/HoopSquad-Backend)
 
 #### Rhythm Gamers
 
@@ -53,8 +57,14 @@
   기여: JWT를 이용한 보안
 ```
 
-### 연락처
+- [API](https://github.com/maitmus/Rhythm-Gamers-Backend)
 
-[![X Badge](https://img.shields.io/badge/X-000000?style=flat-square&logo=X&logoColor=white)<img src="https://img.shields.io/badge/maitmus-555555?style=flat-square"/>](https://twitter.com/maitmus)
+#### SDVXInfo
 
-[![Discord Badge](https://dcbadge.vercel.app/api/shield/534651682965946399?style=flat-square)](https://discord.com/)
+```
+  게임 '사운드 볼텍스'의 정보를 공유하기 위한 위키 사이트
+
+  기여: 전반
+```
+
+- [Project](https://github.com/maitmus/SDVXInfo)
