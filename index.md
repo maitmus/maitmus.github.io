@@ -27,9 +27,31 @@
 [![MaiT's GitHub stats](https://github-readme-stats.vercel.app/api?username=maitmus&theme=ayu-mirage&show_icons=true&hide=stars&hide_rank=true&count_private=true&line_height=24)](https://github.com/maitmus)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maitmus&layout=compact&theme=ayu-mirage)](https://github.com/maitmus)
 
-### 현재 작업중인 프로젝트
+### Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rhythm-gamers&repo=rg-back&theme=ayu-mirage)](https://github.com/rhythm-gamers/rg-back)
+#### HoopSquad
+
+```
+  농구인들을 위한 지역 별 매칭 사이트
+
+  기여: Backend
+```
+
+#### 박차고 (Park-Charge-Go)
+
+```
+  전기차 충전 요금과 주차 요금을 한 번에 결제할 수 있게 하는 주차장 시스템
+
+  기여: Backend, 중계 서버, 웹소켓
+```
+
+#### Rhythm Gamers
+
+```
+  리듬 게임 초보자들을 위한 패턴 연습 사이트
+
+  기여: JWT를 이용한 보안
+```
 
 ### 연락처
 
