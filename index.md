@@ -34,7 +34,7 @@
 ```
   전기차 충전 요금과 주차 요금을 한 번에 결제할 수 있게 하는 주차장 시스템
 
-  기여: Backend, 중계 서버, 웹소켓
+  기여: Backend, DBA, 중계 서버, 웹소켓, AWS 자동 배포
 ```
 
 - [API](https://github.com/maitmus/pcg-back)
@@ -44,7 +44,7 @@
 ```
   농구인들을 위한 지역 별 매칭 사이트
 
-  기여: Backend
+  기여: Backend, DBA, AWS 자동 배포
 ```
 
 - [API](https://github.com/maitmus/HoopSquad-Backend)
