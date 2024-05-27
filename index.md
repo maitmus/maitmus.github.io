@@ -36,6 +36,7 @@
 ```
 
 - [API](https://github.com/maitmus/pcg-back)
+- [Relay](https://github.com/SPACE-AXE/pcg-relay)
 
 #### HoopSquad
 
